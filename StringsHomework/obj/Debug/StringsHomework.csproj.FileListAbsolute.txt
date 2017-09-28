@@ -1,1 +1,6 @@
 c:\users\wecancodeit\documents\visual studio 2015\Projects\StringsHomework\StringsHomework\bin\Debug\StringsHomework.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\StringsHomework\StringsHomework\bin\Debug\StringsHomework.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\StringsHomework\StringsHomework\bin\Debug\StringsHomework.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\StringsHomework\StringsHomework\obj\Debug\StringsHomework.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\StringsHomework\StringsHomework\obj\Debug\StringsHomework.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\StringsHomework\StringsHomework\obj\Debug\StringsHomework.pdb
