@@ -32,12 +32,78 @@ namespace StringsHomework
 
 
 
-            //Problem 2
-            Console.WriteLine("This is a tab \t.");
-            Console.WriteLine("This is a \"quote\".");
-            Console.WriteLine("this is a backslash\\");
-            Console.WriteLine("This is a \n new line.");
-            Console.WriteLine("And this is a bell. \a");
+            ////Problem 2
+            //Console.WriteLine("This is a tab \t . " + 
+            //    "This is a \"quote\". " +
+            //    "This is a backslash\\ " + 
+            //    "This is a \n new line. " + 
+            //    "And this is a bell. \a");
+
+
+            //Problem 3
+            string firstPerson = "Joe";
+            string secPerson = "Jane";
+
+            //if (firstPerson == secPerson)
+            //{
+            //    Console.WriteLine("The names are the same.");
+            //}
+
+            //else
+            //{
+            //    Console.WriteLine("The names are different.");
+            //}
+
+
+            //or
+
+            //if (firstPerson.Equals(secPerson))
+            //{
+            //    Console.WriteLine("The names are the same.");
+            //}
+
+            //else
+            //{
+            //    Console.WriteLine("The names are different.");
+            //}
+
+
+
+            ////Problem 4
+            //Console.WriteLine("Please enter your first name");
+            //string firstName = Console.ReadLine();
+
+            //Console.WriteLine("Please enter your last name");
+            //string lastName = Console.ReadLine();
+
+            //Console.WriteLine(firstName + " " + lastName);
+
+            ////pt2 is not supposed to work....you can't concatenate using .Equals()
+
+
+
+
+            //Problem 5
+            Console.WriteLine("What kind of pet is the opposite of a dog?");
+            string answer = Console.ReadLine().ToLower();
+
+            if (answer == "cat")
+            {
+                Console.WriteLine("You guessed correctly!");
+            }
+            else if (answer == "meow") 
+            {
+                Console.WriteLine("You guessed correctly!");
+            }
+            else
+            {
+                Console.WriteLine("You are incorrect.");
+            }
+
+
+
+
+
         }
     }
 }
